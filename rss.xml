@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[neugentart]]></title>
-        <description><![CDATA[neugentart]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[neugent art]]></title>
+        <description><![CDATA[neugent art]]></description>
+        <link>https://thegrid.ai/neugentart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 19:46:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 10:45:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neugentart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Miss Honey. A sweet name given to sweet ladies and also</p>]]></description>
+            <link>https://thegrid.ai/neugentart/50e3c0b6-fad3-4276-a48d-636c5016297c/index.html</link>
+            <guid isPermaLink="false">50e3c0b6-fad3-4276-a48d-636c5016297c</guid>
+            <pubDate>Thu, 18 Feb 2016 10:29:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is the beginning of a new chapter in the story</p>]]></description>
-            <link>undefinedfd7b793c-3daa-4553-9c7d-e124c3bafdc5/index.html</link>
+            <link>https://thegrid.ai/neugentart/fd7b793c-3daa-4553-9c7d-e124c3bafdc5/index.html</link>
             <guid isPermaLink="false">fd7b793c-3daa-4553-9c7d-e124c3bafdc5</guid>
             <pubDate>Wed, 17 Feb 2016 19:44:44 GMT</pubDate>
         </item>
