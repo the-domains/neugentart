@@ -1,4 +1,4 @@
-name: neugentart
+name: neugent art
 favicon: null
 layout_spectrum: 0.9753164749126881
 typography_spectrum: 0.08108678832650185
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#eaf4dc'
+    - '#a9b392'
+    - '#171717'
+    - '#5d593b'
+    - '#527091'
   brandStrength: 0.9418958565220237
   lightness: 0.2613819595426321
   saturation: 0.2364044119603932
